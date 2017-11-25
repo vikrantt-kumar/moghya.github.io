@@ -105,8 +105,8 @@ function loadLikes(likes){
 var profile;
 	swal(
 		{
-			title:"helloWorld!!!",
-			text:"Hello visitor, you have landed upon little webspace of moghya.",
+			title:"Greetings!",
+			text:"You've landen upon the E-Portfolio of Vikrant Kumar, allow me to introduce myself...",
 			confirmButtonColor:"#1f1f1f"
 		}
 	);
